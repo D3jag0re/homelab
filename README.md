@@ -4,7 +4,7 @@ Homelab Docs - A space to dump notesand configs.
 ## Running 
 
 - Unifi OS Server (via Cloud Gateway Max) 
-- Pihole x2 
+- Pihole x2 w/ unbound
 - Tailscale
 - Tailscale Exit Node 
 

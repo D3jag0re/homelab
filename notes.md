@@ -1,6 +1,6 @@
 ## TO DO 
 
-- [Unbound](https://docs.pi-hole.net/guides/dns/unbound/) 
+
 
 
 ## To Check Out 
@@ -17,3 +17,8 @@
 
 - Lights for night (bed / bath)
 - [ESPHome](https://esphome.io/) Uses ESP32 and ESP8266 microcontrollers
+- water / power alarm ? (would need UPS on both network and server)
+
+## Other 
+
+- [Unbound](https://docs.pi-hole.net/guides/dns/unbound/) Running.

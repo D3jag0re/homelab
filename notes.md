@@ -1,6 +1,8 @@
 ## TO DO 
 
-
+- OpenTofu For infra
+- Or Pulumi
+- Ansible
 
 
 ## To Check Out 
@@ -12,6 +14,7 @@
 - TF / Ansible for LXC 
 - Proxmox / LXC Backups 
 - Proxmox / LXC Patching
+- Observability stack and alerting
 
 ### Home Assistant 
 

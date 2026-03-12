@@ -29,4 +29,4 @@
 ## Mobile 
 
 - [x] ReVanced:
-    - [] YouTube
+    - [ ] YouTube

@@ -30,7 +30,8 @@
 ## Mobile 
 
 - [x] [ReVanced](https://github.com/revanced):
-    - [x] YouTube (Uses MicroG Services) Look at smartube or tizentube for TV
+    - [x] YouTube (Uses MicroG Services)
+    - [X] SmarTube for TV (can cast as well)
     - [x] Reddit (Need [Anti-Split-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) to split into apk)
 
 - [ ] Smart Launcher
